@@ -1,0 +1,18 @@
+Package: com.dave1482.powerapp3
+Pre-Depends: dpkg (>= 1.13.25-5)
+Name: PowerApp Beta
+Architecture: iphoneos-arm
+Description: This is a beta release. Changes: 
+    > Change ChangeLog to Changelog
+    > Update Button Titles
+    > Updated Changelog version Colors
+Maintainer: Dave1482 <thedave1482@gmail.com>
+Author: Dave1482 <thedave1482@gmail.com>
+Section: Beta Utilities
+Icon: https://dave1482.github.io/beta/BetaUtilities.png
+Version: 0.1-NIGHTLY-02102015
+Installed-Size: 396
+Filename: ./com.dave1482.powerapp3_0.1-NIGHTLY-02102015_iphoneos-arm.deb
+Size: 96212
+MD5sum: dab148af0889fbef6147d4c1a270088b
+

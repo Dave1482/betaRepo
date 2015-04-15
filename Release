@@ -1,0 +1,8 @@
+Origin: Dave1482 Beta Repo
+Label: Dave1482
+Suite: stable
+Version: 1.0
+Codename: Dave1482Beta
+Architectures: iphoneos-arm
+Components: main
+Description: My beta repo... PowerApp+ will be coming!
