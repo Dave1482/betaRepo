@@ -1,14 +1,14 @@
 Package: com.dave1482.powerappbeta
-Version: 4.0-BETA-22056212018
+Version: 4.0-BETA-201806220824
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <thedave1482@gmail.com>
 Pre-Depends: dpkg (>= 1.13.25-5)
 Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
-Filename: ./com.dave1482.powerappbeta_4.0-BETA-22056212018_iphoneos-arm.deb
-Size: 208348
-MD5sum: b8cf8ac72c0d53474a2133dbe287dc64
-SHA1: 69d928196d33ab1586a59cc99bf0d3562e9d2f80
-SHA256: 7edfdf9b5e5aa68685de2e37e79301a48d5ad7354aade3ebb8d17cbfc44dc26a
+Filename: ./com.dave1482.powerappbeta_4.0-BETA-201806220824_iphoneos-arm.deb
+Size: 208334
+MD5sum: b2d24db192f54ca5870805fc956f41da
+SHA1: eb1f33b16be1ae61ecc2189c17df6728d498bb1d
+SHA256: 8b12f84d02e88d8f2d0af6a464024831d3720cb4c9600b61f8a45d6b4e414f67
 Section: Beta Utilities
 Description: This is a beta release.
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
