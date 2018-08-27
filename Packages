@@ -1,18 +1,21 @@
 Package: com.dave1482.powerappbeta
-Version: 4.0-BETA-201806281934
+Version: 4.1.0-BETA-1808271325
 Architecture: iphoneos-arm
-Maintainer: Dave1482 <thedave1482@gmail.com>
-Pre-Depends: dpkg (>= 1.13.25-5)
-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
-Filename: ./com.dave1482.powerappbeta_4.0-BETA-201806281934_iphoneos-arm.deb
-Size: 427822
-MD5sum: 5a1bc097da4c4d92acfcd094f1b43a98
-SHA1: d060948e38541f6e8921821ba1a2583dbcad247d
-SHA256: 20ba568bf00eb52497ed2c92ed2042710572738b2e0f029dd64f62ea24dac08f
-Section: Beta Utilities
-Description: This is a beta release.
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerapp
+Filename: ./com.dave1482.powerappbeta_4.1.0-BETA-1808271325_iphoneos-arm.deb
+Size: 158580
+MD5sum: 681a39cec8ba46cd6a79d64d5e4de27d
+SHA1: 323c0ae7d8765b88cbe6a990c283c2885acbb8cf
+SHA256: 01c78c9cb2d9371a93dc977aca71ee6af5535ffc941ba54c152122916a872b83
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <thedave1482@gmail.com>
-Icon: https://dave1482.github.io/beta/BetaUtilities.png
-Name: PowerApp Beta
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
 
