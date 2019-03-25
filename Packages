@@ -1,0 +1,21 @@
+Package: com.dave1482.powerappbeta
+Version: 4.2.1-beta0318191230
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerapp
+Filename: ./com.dave1482.powerappbeta_4.2.1-beta0318191230_iphoneos-arm.deb
+Size: 257336
+MD5sum: 22c0f14f673fc60823441e0eb01b9ca6
+SHA1: 9fbe67b1ed52faf90370027a623703c113f37eef
+SHA256: 483088b6cacb5870d690c1d31c035cbd0d899eed5230c71e98305d8f41f8c1e6
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: Reboot, Shutdown, Respring, go into Safemode
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Dave1482 <dave1482@dave1482.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
