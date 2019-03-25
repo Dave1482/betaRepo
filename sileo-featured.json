@@ -1,1 +1,13 @@
-
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/header.png",
+      "title": "",
+      "package": "com.dave1482.powerappbeta",
+      "hideShadow": true
+    }
+  ]
+}
