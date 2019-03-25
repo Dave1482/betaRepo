@@ -5,9 +5,9 @@
   "banners": [
     {
       "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/header.png",
-      "title": "",
+      "title": "PowerApp Beta",
       "package": "com.dave1482.powerappbeta",
-      "hideShadow": true
+      "hideShadow": false
     }
   ]
 }
