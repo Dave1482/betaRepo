@@ -1,5 +1,5 @@
 {
-  "minVersion": "4.2.1-beta0318191230",
+  "minVersion": "0.1",
   "headerImage": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/header.png",
   "tintColor": "#04A94E",
   "tabs": [
@@ -7,49 +7,67 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "PowerApp Beta",
+          "title": "Reboot, Shutdown, Respring, and more easily",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
           "itemCornerRadius": 6,
-          "itemSize": "{160, 275.41333333333336}",
+          "itemSize": "{160, 284.44444444444446}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
               "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png",
               "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss4.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss4.png"
             }
           ],
           "ipad": {
             "itemCornerRadius": 9,
-            "itemSize": "{320, 550.8266666666667}",
+            "itemSize": "{320, 568.8888888888889}",
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png?size=640",
+                "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png",
                 "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png"
-              }
+              },
+              {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss4.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss4.png"
+            }
             ],
             "class": "DepictionScreenshotView"
           },
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Reboot, Shutdown, and Respring easily",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Known Issues",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "markdown": "",
+          "markdown": " **BETA**\n\n**Supports iOS 3.0-iOS 12.1.2+**\n\nReboot, Shutdown, Respring, and Refresh SpringBoard without MobileSubstrate or Substitute!\n\nGoing into Safe Mode and entering Non-MobileSubstrate Mode by respringing requires MobileSubstrate, but it is not a requirement for PowerApp.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -67,27 +85,39 @@
         },
         {
           "title": "Released",
-          "text": "2019/03/18",
+          "text": "2019-3-18",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Price",
-          "text": "0",
+          "text": "Free",
           "class": "DepictionTableTextView"
         },
         {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+        {
           "title": "Developer",
-          "text": "Dave1482",
+          "text": "dave1482",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Contact Support",
-          "action": "https://github.com/Dave1482/PowerApp",
+          "action": "depiction-https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/support",
           "class": "DepictionTableButtonView"
         },
         {
           "spacing": 16,
           "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://beta.dave1482.com/CydiaIcon.png",
+          "width": 44,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
         },
         {
           "spacing": 20,
@@ -99,19 +129,38 @@
     {
       "tabname": "Changelog",
       "views": [
-		{
-          "title": "4.2.1-beta0318191230",
+        {
+          "title": "Version 4.2.1-beta0318191230",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Initial Release",
+          "markdown": "* Added iOS 8/9 support back (newest features\navailable on iOS 8/9 devices again!)\n\n**RECOMMENDED**\n\nTurn on Alerts in the app’s settings",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/03/18</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-3-18</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Version 4.2",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "* Reintroduce Check for Update Feature\n* Moved to Dynastic Repo",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-3-17</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         }
