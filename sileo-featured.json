@@ -1,10 +1,10 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
+  "itemSize": "{180, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {
-      "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/header.png",
+      "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/h.png",
       "title": "PowerApp Beta",
       "package": "com.dave1482.powerappbeta",
       "hideShadow": false
