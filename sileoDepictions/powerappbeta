@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/header.png",
+  "headerImage": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/h.png",
   "tintColor": "#04A94E",
   "tabs": [
     {
@@ -120,7 +120,7 @@
           "class": "DepictionImageView"
         },
         {
-          "spacing": 20,
+          "spacing": 10,
           "class": "DepictionSpacerView"
         }
       ],
