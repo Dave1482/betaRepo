@@ -1,4 +1,4 @@
-# Welcome to Dave1482's Beta Repo
+# Dave1482's Beta Repo
 
 <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://beta.dave1482.com/" class="btn btn-github"><span class="icon"></span>Add to Cydia</a>
 
