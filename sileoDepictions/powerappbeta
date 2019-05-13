@@ -80,12 +80,12 @@
         },
         {
           "title": "Version",
-          "text": "4.2.1-beta0318191230",
+          "text": "5.0-beta0512191630",
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Released",
-          "text": "2019-3-18",
+          "title": "Updated",
+          "text": "2019-5-12",
           "class": "DepictionTableTextView"
         },
         {
@@ -129,6 +129,30 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "Version 5.0-beta0512191630",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "* New Button Redesign",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* See Previous Changes from PowerApp v4.4.0 on Dynastic",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-5-12</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "Version 4.2.1-beta0318191230",
           "useBoldText": true,
