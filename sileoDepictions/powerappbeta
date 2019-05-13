@@ -38,18 +38,18 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png",
-                "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png"
+                "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1pad.png",
+                "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1pad.png"
               },
               {
               "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png"
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2pad.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2pad.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png"
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3pad.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3pad.png"
             }
             ],
             "class": "DepictionScreenshotView"
