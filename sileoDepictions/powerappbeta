@@ -30,11 +30,6 @@
               "accessibilityText": "Screenshot",
               "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png",
               "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss4.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss4.png"
             }
           ],
           "ipad": {
@@ -55,11 +50,6 @@
               "accessibilityText": "Screenshot",
               "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png",
               "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss4.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss4.png"
             }
             ],
             "class": "DepictionScreenshotView"
