@@ -15,7 +15,6 @@ Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
@@ -37,7 +36,6 @@ Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
@@ -59,7 +57,27 @@ Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
+Package: com.dave1482.powerappbeta
+Version: 5.0-beta0731190015
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerapp
+Filename: ./com.dave1482.powerappbeta_5.0-beta0731190015_iphoneos-arm.deb
+Size: 259322
+MD5sum: 1e91406b3f04653769bdce3ea7a4ec0d
+SHA1: 4f5cebde7eb83cad287a4d28b7d02a9f12fec373
+SHA256: d0cd1b8a61b20c72fd0e4377e81f422f25a9d7fd1b3f77a48ba1628c2520b629
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: Reboot, Shutdown, Respring, go into Safemode
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Dave1482 <dave1482@dave1482.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp

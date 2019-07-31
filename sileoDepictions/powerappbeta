@@ -70,12 +70,12 @@
         },
         {
           "title": "Version",
-          "text": "5.0-beta0512191630",
+          "text": "5.0-beta0731190015",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "2019-5-12",
+          "text": "7/31/2019",
           "class": "DepictionTableTextView"
         },
         {
@@ -119,6 +119,30 @@
     {
       "tabname": "Changelog",
       "views": [
+		{
+          "title": "Version 5.0-beta0731190015",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "* New Control to select respring command (Not working)",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* (Hopefully) Fixed the Alerts label in Settings",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-5-12</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "Version 5.0-beta0512191630",
           "useBoldText": true,
