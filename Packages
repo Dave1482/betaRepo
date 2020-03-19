@@ -15,6 +15,7 @@ Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
@@ -84,3 +85,27 @@ SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
+
+Package: com.dave1482.powerappbeta
+Version: 5.0-beta2003152035
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 3.0), system-cmds, shell-cmds, coreutils
+Recommends: com.midnightchips.ldrun
+Conflicts: com.dave1482.powerapp
+Filename: ./com.dave1482.powerappbeta_5.0-beta2003152035_iphoneos-arm.deb
+Size: 270772
+MD5sum: 55aca9a3f7a44fc657f34201645f873a
+SHA1: cdf2dd5f87c0082386f26b9fcf82bc65a9336d4f
+SHA256: 7d8bdd46ef541ebdf3410f0809ecbecf016d697892923da0b4d1b3cdec1225b6
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Description: Reboot, Shutdown, Respring, go into Safemode
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
+Author: Dave1482 <dave1482@dave1482.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
+Dev: thedave1482
+Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
