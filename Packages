@@ -109,3 +109,23 @@ Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
 
+Package: com.dave1482.tweetshiftbeta
+Version: 0.0.1-beta2005212137
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 10.0)
+Depends: mobilesubstrate
+Conflicts: com.dave1482.tweetshift
+Filename: ./com.dave1482.tweetshiftbeta_0.0.1-beta2005212137_iphoneos-arm.deb
+Size: 23316
+MD5sum: aaa559ba49bec9b80b280d1a080e2992
+SHA1: b9d625e2afab05be82d16a0819c59462c37139d5
+SHA256: 7cd9c9a165cfe3f039afbefec9c3f000f87c9b6ed35c0ff7d4c5d52f881534cb
+Section: Tweaks
+Description: BETA! Change Twitter Accent Color easily!
+Author: Dave1482 <dave1482@dave1482.com>
+Depiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
+SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
+Compatible: :ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
+Name: TweetShift
