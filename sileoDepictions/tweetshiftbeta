@@ -13,50 +13,6 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 284.44444444444446}",
-          "screenshots": [
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png"
-            }
-          ],
-          "ipad": {
-            "itemCornerRadius": 9,
-            "itemSize": "{320, 568.8888888888889}",
-            "screenshots": [
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1pad.png",
-                "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1pad.png"
-              },
-              {
-              "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2pad.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2pad.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3pad.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3pad.png"
-            }
-            ],
-            "class": "DepictionScreenshotView"
-          },
-          "class": "DepictionScreenshotsView"
-        },
-        {
           "markdown": " **BETA**\n\n**Supports iOS 10.0-iOS 13.5+**\n\nSimple tweak to change Twitter's accent colors!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
