@@ -1,0 +1,143 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/h.png",
+  "tintColor": "#04A94E",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Change Twitter's Accent Colors!",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 284.44444444444446}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 568.8888888888889}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1pad.png",
+                "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1pad.png"
+              },
+              {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2pad.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2pad.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3pad.png",
+              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3pad.png"
+            }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": " **BETA**\n\n**Supports iOS 10.0-iOS 13.5+**\n\nSimple tweak to change Twitter's accent colors!",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "0.0.1-beta2005212137",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Updated",
+          "text": "5/21/2020",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "title": "Developer",
+          "text": "dave1482",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "action": "depiction-https://beta.dave1482.com/sileoDepictions/com.dave1482.tweetshiftbeta/support",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://beta.dave1482.com/CydiaIcon.png",
+          "width": 44,
+          "height": 44,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "spacing": 10,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "Version 0.0.1-beta2005212137",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "* Initial beta release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-5-21</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
