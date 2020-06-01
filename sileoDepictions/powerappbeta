@@ -57,7 +57,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": " **BETA**\n\n**Supports iOS 3.0-iOS 13.3.1+**\n\nReboot, Shutdown, Respring, and Refresh SpringBoard without MobileSubstrate or Substitute!\n\nGoing into Safe Mode and entering Non-MobileSubstrate Mode by respringing requires MobileSubstrate, but it is not a requirement for PowerApp.",
+          "markdown": " **BETA**\n\n**Supports iOS 3.0-iOS 13.5+**\n\nReboot, Shutdown, Respring, and Refresh SpringBoard without MobileSubstrate or Substitute!\n\nGoing into Safe Mode and entering Non-MobileSubstrate Mode by respringing requires MobileSubstrate, but it is not a requirement for PowerApp.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
