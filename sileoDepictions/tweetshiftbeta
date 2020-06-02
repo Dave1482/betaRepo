@@ -26,12 +26,12 @@
         },
         {
           "title": "Version",
-          "text": "0.0.1-beta2005212137",
+          "text": "0.0.2-beta2006021055",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "5/21/2020",
+          "text": "6/2/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -75,6 +75,30 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "Version 0.0.2-beta2006021055",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "* Added Respring button",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* Removed annoying .DS_Store files",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-5-21</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "Version 0.0.1-beta2005212137",
           "useBoldText": true,
