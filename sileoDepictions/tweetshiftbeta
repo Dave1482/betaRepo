@@ -50,7 +50,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "sileo://beta.dave1482.com/sileoDepictions/com.dave1482.tweetshiftbeta/support",
+          "action": "depiction-https://beta.dave1482.com/sileoDepictions/com.dave1482.tweetshiftbeta/support",
           "class": "DepictionTableButtonView"
         },
         {
