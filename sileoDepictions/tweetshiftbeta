@@ -13,7 +13,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": " **BETA**\n\n**Supports iOS 10.0-iOS 13.5+**\n\nSimple tweak to change Twitter's accent colors!",
+          "markdown": " **BETA**\n\n**Supports iOS 8.0-iOS 13.5+**\n\nSimple tweak to change Twitter's accent colors!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -26,12 +26,12 @@
         },
         {
           "title": "Version",
-          "text": "0.0.2-beta2006021055",
+          "text": "0.0.3-beta2006041455",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "6/2/2020",
+          "text": "6/4/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -75,6 +75,30 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "Version 0.0.3-beta2006041455",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "* armv7 Support",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "* iOS 8/9 Support",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-6-2</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "Version 0.0.2-beta2006021055",
           "useBoldText": true,
