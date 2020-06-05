@@ -26,12 +26,12 @@
         },
         {
           "title": "Version",
-          "text": "0.0.3-beta2006041830",
+          "text": "0.0.3b-beta2006041830",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Updated",
-          "text": "6/4/2020",
+          "text": "6/5/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -50,7 +50,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "mailto:dave1482@dave1482.com?subject=TweetShift%20v0.0.3-beta2006041830",
+          "action": "mailto:dave1482@dave1482.com?subject=TweetShift%20Beta",
           "class": "DepictionTableButtonView"
         },
         {
@@ -76,7 +76,7 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 0.0.3-beta2006041830",
+          "title": "Version 0.0.3b-beta2006041830",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
@@ -87,7 +87,7 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-6-4</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-6-5</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },
@@ -95,7 +95,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "Version 0.0.3-beta2006041455",
+          "title": "Version 0.0.3b-beta2006041455",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
@@ -106,11 +106,6 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "* iOS 8/9 Support",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
           "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-6-4</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
@@ -119,7 +114,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "Version 0.0.2-beta2006021055",
+          "title": "Version 0.0.2b-beta2006021055",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
@@ -143,7 +138,7 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "Version 0.0.1-beta2005212137",
+          "title": "Version 0.0.1b-beta2005212137",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
