@@ -114,7 +114,7 @@ Version: 0.0.1-beta2005212137
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
 Pre-Depends: firmware (>= 10.0)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.dave1482.tweetshift
 Filename: ./com.dave1482.tweetshiftbeta_0.0.1-beta2005212137_iphoneos-arm.deb
 Size: 23316
@@ -134,7 +134,7 @@ Version: 0.0.2-beta2006021055
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
 Pre-Depends: firmware (>= 10.0)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.dave1482.tweetshift
 Filename: ./com.dave1482.tweetshiftbeta_0.0.2-beta2006021055_iphoneos-arm.deb
 Size: 34400
@@ -154,7 +154,7 @@ Version: 0.0.3-beta2006041455
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
 Pre-Depends: firmware (>= 10.0)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.dave1482.tweetshift
 Filename: ./com.dave1482.tweetshiftbeta_0.0.3-beta2006041455_iphoneos-arm.deb
 Size: 47622
@@ -174,7 +174,7 @@ Version: 0.0.3-beta2006041830
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
 Pre-Depends: firmware (>= 10.0)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.dave1482.tweetshift
 Filename: ./com.dave1482.tweetshiftbeta_0.0.3-beta2006041830_iphoneos-arm.deb
 Size: 59674
