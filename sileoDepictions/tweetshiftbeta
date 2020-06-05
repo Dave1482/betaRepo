@@ -26,7 +26,7 @@
         },
         {
           "title": "Version",
-          "text": "0.0.3-beta2006041455",
+          "text": "0.0.3-beta2006041830",
           "class": "DepictionTableTextView"
         },
         {
@@ -50,7 +50,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "depiction-https://beta.dave1482.com/sileoDepictions/com.dave1482.tweetshiftbeta/support",
+          "action": "mailto:dave1482@dave1482.com?subject=TweetShift%20v0.0.3-beta2006041830",
           "class": "DepictionTableButtonView"
         },
         {
@@ -75,6 +75,25 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "Version 0.0.3-beta2006041830",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "* armv7s Support",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-6-4</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "Version 0.0.3-beta2006041455",
           "useBoldText": true,
