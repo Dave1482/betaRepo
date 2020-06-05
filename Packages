@@ -110,81 +110,102 @@ Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
 
 Package: com.dave1482.tweetshiftbeta
-Version: 0.0.1-beta2005212137
+Version: 0.0.1b-beta2005212137
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
 Pre-Depends: firmware (>= 10.0)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.dave1482.tweetshift
-Filename: ./com.dave1482.tweetshiftbeta_0.0.1-beta2005212137_iphoneos-arm.deb
-Size: 23316
-MD5sum: aaa559ba49bec9b80b280d1a080e2992
-SHA1: b9d625e2afab05be82d16a0819c59462c37139d5
-SHA256: 7cd9c9a165cfe3f039afbefec9c3f000f87c9b6ed35c0ff7d4c5d52f881534cb
+Filename: ./com.dave1482.tweetshiftbeta_0.0.1b-beta2005212137_iphoneos-arm.deb
+Size: 23300
+MD5sum: 963d1f5bc5871d5069a7f7888e0f4c80
+SHA1: 86a0cb46d3278f70d2fe666937303db7b0545a4a
+SHA256: b603602ae0d931f284f38eb0402d927b7d00449c7efb02d95bd09c8d038e7555
 Section: Tweaks
 Description: BETA! Change Twitter Accent Color easily!
-Author: Dave1482 <dave1482@dave1482.com>
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: Dave1482 <dave1482@dave1482.com>
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
 Name: TweetShift
 
 Package: com.dave1482.tweetshiftbeta
-Version: 0.0.2-beta2006021055
+Version: 0.0.2b-beta2006021055
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
 Pre-Depends: firmware (>= 10.0)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.dave1482.tweetshift
-Filename: ./com.dave1482.tweetshiftbeta_0.0.2-beta2006021055_iphoneos-arm.deb
-Size: 34400
-MD5sum: 5cf2bd0801ae86615b58a48a5073d55f
-SHA1: 9a25026d8645c39fb5e25762ec5bba65966af782
-SHA256: 73d4f8eb47f5a7c6621860a376f2b18b734b8a525a87cb10430fba7497ab467d
+Filename: ./com.dave1482.tweetshiftbeta_0.0.2b-beta2006021055_iphoneos-arm.deb
+Size: 25380
+MD5sum: bbfa3f5ddc370e97388d5a9201e90eb8
+SHA1: 129388e1a8110ff24efd484b6d572fbb51a558ae
+SHA256: 232d7b0856edd40b97004ecb703b448ce45818891c8464445d251b06aac4b38c
 Section: Tweaks
 Description: BETA! Change Twitter Accent Color easily!
-Author: Dave1482 <dave1482@dave1482.com>
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: Dave1482 <dave1482@dave1482.com>
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
 Name: TweetShift
 
 Package: com.dave1482.tweetshiftbeta
-Version: 0.0.3-beta2006041455
+Version: 0.0.3-beta2006051400
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
-Pre-Depends: firmware (>= 8.0)
-Depends: mobilesubstrate
+Pre-Depends: firmware (>= 10.0)
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.dave1482.tweetshift
-Filename: ./com.dave1482.tweetshiftbeta_0.0.3-beta2006041455_iphoneos-arm.deb
-Size: 47622
-MD5sum: 339541a8b0fd13e6af196d1480d047fc
-SHA1: a3d6b29a68e91867e28988d307ac3489b206b60b
-SHA256: 9114a581f41435a5a5b9b7312a2096e2c5aade06ac09b201c9a874a478f355f2
+Filename: ./com.dave1482.tweetshiftbeta_0.0.3-beta2006051400_iphoneos-arm.deb
+Size: 33704
+MD5sum: cc65c787088622dc0c3fe9c73d3c5c08
+SHA1: 282a102c3022f016414869ad9e430ebbc0147aa0
+SHA256: 3ee67dcd3dd91342c7195a8c93d04d5bcfdf197a17db82003992b710902c819f
 Section: Tweaks
 Description: BETA! Change Twitter Accent Color easily!
-Author: Dave1482 <dave1482@dave1482.com>
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: Dave1482 <dave1482@dave1482.com>
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
 Name: TweetShift
 
 Package: com.dave1482.tweetshiftbeta
-Version: 0.0.3-beta2006041830
+Version: 0.0.3b-beta2006041455
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
-Pre-Depends: firmware (>= 8.0)
-Depends: mobilesubstrate
+Pre-Depends: firmware (>= 10.0)
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.dave1482.tweetshift
-Filename: ./com.dave1482.tweetshiftbeta_0.0.3-beta2006041830_iphoneos-arm.deb
-Size: 59674
-MD5sum: be33f3651019272a644b6dcc001b31b9
-SHA1: a1ebb9e6be12dd0552187b736e03cf73123a7b4c
-SHA256: ae51915bb4472cb5040ce49c8348d5647e7fdba95fa4144e4e1da7070a41d76e
+Filename: ./com.dave1482.tweetshiftbeta_0.0.3b-beta2006041455_iphoneos-arm.deb
+Size: 32360
+MD5sum: cb954371bd11320b4a93e529ef54eeed
+SHA1: 669e62a8fbe37ccba48bc1ecb22b3bc57d4e58ec
+SHA256: ca87a15d378bb2ff08b13f59053004380c086a8f5754258662d9c1c75343161c
 Section: Tweaks
 Description: BETA! Change Twitter Accent Color easily!
-Author: Dave1482 <dave1482@dave1482.com>
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: Dave1482 <dave1482@dave1482.com>
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
 Name: TweetShift
+
+Package: com.dave1482.tweetshiftbeta
+Version: 0.0.3b-beta2006041830
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 10.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.dave1482.tweetshift
+Filename: ./com.dave1482.tweetshiftbeta_0.0.3b-beta2006041830_iphoneos-arm.deb
+Size: 33696
+MD5sum: e71e53332cef9c939c1de78f15b47561
+SHA1: 924523de9913a3cb33875618fb6b9ecdc7542b22
+SHA256: 8aed9a64ddd95fbe5829a65eec7eef84bfde60b034224acc4d82a3ea80883f95
+Section: Tweaks
+Description: BETA! Change Twitter Accent Color easily!
+SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Author: Dave1482 <dave1482@dave1482.com>
+Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
+Name: TweetShift
+
