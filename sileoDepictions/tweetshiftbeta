@@ -13,7 +13,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": " **BETA**\n\n**Supports iOS 8.0-iOS 13.5+**\n\nSimple tweak to change Twitter's accent colors!",
+          "markdown": " **BETA**\n\n**Supports iOS 10.0-iOS 13.5+**\n\nSimple tweak to change Twitter's accent colors!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
