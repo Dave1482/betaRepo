@@ -153,7 +153,7 @@ Package: com.dave1482.tweetshiftbeta
 Version: 0.0.3-beta2006041455
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
-Pre-Depends: firmware (>= 10.0)
+Pre-Depends: firmware (>= 8.0)
 Depends: mobilesubstrate
 Conflicts: com.dave1482.tweetshift
 Filename: ./com.dave1482.tweetshiftbeta_0.0.3-beta2006041455_iphoneos-arm.deb
@@ -173,7 +173,7 @@ Package: com.dave1482.tweetshiftbeta
 Version: 0.0.3-beta2006041830
 Architecture: iphoneos-arm
 Maintainer: Dave1482 <dave1482@dave1482.com>
-Pre-Depends: firmware (>= 10.0)
+Pre-Depends: firmware (>= 8.0)
 Depends: mobilesubstrate
 Conflicts: com.dave1482.tweetshift
 Filename: ./com.dave1482.tweetshiftbeta_0.0.3-beta2006041830_iphoneos-arm.deb
