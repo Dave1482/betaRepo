@@ -50,7 +50,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "mailto:dave1482@dave1482.com?subject=TweetShift%20Beta",
+          "depiction-action": "https://beta.dave1482.com/sileoDepictions/com.dave1482.tweetshift/support",
           "class": "DepictionTableButtonView"
         },
         {
