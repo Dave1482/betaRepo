@@ -94,7 +94,7 @@
         },
         {
           "title": "Contact Support",
-          "action": "depiction-https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/support",
+          "depiction-action": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/support",
           "class": "DepictionTableButtonView"
         },
         {
