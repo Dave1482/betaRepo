@@ -14,7 +14,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Depiction: https://powerapp.dave1482.com/
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
@@ -36,7 +36,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Depiction: https://powerapp.dave1482.com/
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
@@ -58,7 +58,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Depiction: https://powerapp.dave1482.com/
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
@@ -80,7 +80,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Depiction: https://powerapp.dave1482.com/
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
@@ -103,10 +103,30 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
+Depiction: https://powerapp.dave1482.com/
 SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
+Name: PowerApp
+
+Package: com.dave1482.powerappbeta
+Version: 6.0-beta2007191646
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils
+Suggests: com.midnightchips.ldrun
+Conflicts: com.dave1482.powerapp
+Filename: ./com.dave1482.powerappbeta_6.0-beta2007191646_iphoneos-arm.deb
+Size: 359228
+MD5sum: 8d3e09d14f3daba0e9a20b681946f158
+SHA1: 16d3b78ccf5cd6804b88f434649bb02bfa7590a5
+SHA256: a5f893c3b86beccea1bdc74ac8cdb9521b42b07dbd9659cb6fb38903e7e38d42
+Section: Utilities
+Description: Reboot, Shutdown, Respring, go into Safemode
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
+Author: Dave1482 <dave1482@dave1482.com>
+Depiction: https://powerapp.dave1482.com/
+Icon: file:///Applications/PowerApp.app/insetIcon60x60.png
 Name: PowerApp
 
 Package: com.dave1482.tweetshiftbeta
