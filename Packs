@@ -14,8 +14,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: https://powerapp.dave1482.com/
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
@@ -36,8 +35,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: https://powerapp.dave1482.com/
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
@@ -58,8 +56,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: https://powerapp.dave1482.com/
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
@@ -80,8 +77,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: https://powerapp.dave1482.com/
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
@@ -103,8 +99,7 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
 Author: Dave1482 <dave1482@dave1482.com>
-Depiction: https://powerapp.dave1482.com/
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerappDp
 Dev: thedave1482
 Icon: file:///Applications/PowerApp.app/Icon.png
 Name: PowerApp
@@ -126,7 +121,6 @@ Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
 Author: Dave1482 <dave1482@dave1482.com>
 Depiction: https://powerapp.dave1482.com/
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Icon: file:///Applications/PowerApp.app/insetIcon60x60.png
 Name: PowerApp
 
@@ -147,7 +141,6 @@ Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
 Author: Dave1482 <dave1482@dave1482.com>
 Depiction: https://powerapp.dave1482.com/
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Icon: file:///Applications/PowerApp.app/insetIcon60x60.png
 Name: PowerApp
 
@@ -168,9 +161,9 @@ Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
 Author: Dave1482 <dave1482@dave1482.com>
 Depiction: https://powerapp.dave1482.com/
-Sileodepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Icon: file:///Applications/PowerApp.app/Icon-60.png
 Name: PowerApp
+Sileodepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 
 Package: com.dave1482.tweetshiftbeta
 Version: 0.0.1b-beta2005212137
@@ -186,7 +179,6 @@ SHA1: 86a0cb46d3278f70d2fe666937303db7b0545a4a
 SHA256: b603602ae0d931f284f38eb0402d927b7d00449c7efb02d95bd09c8d038e7555
 Section: Tweaks
 Description: BETA! Change Twitter Accent Color easily!
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Author: Dave1482 <dave1482@dave1482.com>
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
@@ -206,7 +198,6 @@ SHA1: 129388e1a8110ff24efd484b6d572fbb51a558ae
 SHA256: 232d7b0856edd40b97004ecb703b448ce45818891c8464445d251b06aac4b38c
 Section: Tweaks
 Description: BETA! Change Twitter Accent Color easily!
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Author: Dave1482 <dave1482@dave1482.com>
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
@@ -226,7 +217,6 @@ SHA1: 669e62a8fbe37ccba48bc1ecb22b3bc57d4e58ec
 SHA256: ca87a15d378bb2ff08b13f59053004380c086a8f5754258662d9c1c75343161c
 Section: Tweaks
 Description: BETA! Change Twitter Accent Color easily!
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Author: Dave1482 <dave1482@dave1482.com>
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
@@ -246,8 +236,8 @@ SHA1: 924523de9913a3cb33875618fb6b9ecdc7542b22
 SHA256: 8aed9a64ddd95fbe5829a65eec7eef84bfde60b034224acc4d82a3ea80883f95
 Section: Tweaks
 Description: BETA! Change Twitter Accent Color easily!
-SileoDepiction: https://beta.dave1482.com/sileoDepictions/tweetshiftbeta
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Author: Dave1482 <dave1482@dave1482.com>
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
 Name: TweetShift
+
