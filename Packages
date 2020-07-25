@@ -172,6 +172,27 @@ Sileodepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
 Icon: file:///Applications/PowerApp.app/Icon-60.png
 Name: PowerApp
 
+Package: com.dave1482.powerappbeta
+Version: 6.0-beta2007250000
+Architecture: iphoneos-arm
+Maintainer: Dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils
+Suggests: com.midnightchips.ldrun
+Conflicts: com.dave1482.powerapp
+Filename: ./com.dave1482.powerappbeta_6.0-beta2007250000_iphoneos-arm.deb
+Size: 413100
+MD5sum: 5133b679691d1224fbd603284d4c8a17
+SHA1: 6fb369190560827f3b58c9443149585f58035b4c
+SHA256: 67d2d42e9b4dc44fd8bab7c003e0f76a03b20d97c23804f2919155c61ad49b0c
+Section: Utilities
+Description: Reboot, Shutdown, Respring, go into Safemode
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
+Author: Dave1482 <dave1482@dave1482.com>
+Depiction: https://powerapp.dave1482.com/
+Sileodepiction: https://beta.dave1482.com/sileoDepictions/powerappbeta
+Icon: file:///Applications/PowerApp.app/Icon-60.png
+Name: PowerApp
+
 Package: com.dave1482.tweetshiftbeta
 Version: 0.0.1b-beta2005212137
 Architecture: iphoneos-arm
